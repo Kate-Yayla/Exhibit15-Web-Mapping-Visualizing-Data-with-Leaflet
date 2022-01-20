@@ -23,7 +23,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 **1 . Import & Visualize the Data**
 
-   Createw a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+   Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
    * My data markers reflected the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes appeared larger and earthquakes with greater appeared darker in color.
 ![Legend](Images/Legend.png)
